@@ -1,5 +1,4 @@
-# 
-##bootcamp_projects
+# bootcamp_projects
 
 Data science bootcamp with 'adToy'
  
@@ -18,7 +17,6 @@ Data science bootcamp with 'adToy'
  
  Badges :
 
-## All my projects
-# R
+## R
 - Chatbot for ordering pizza
 - Rock Paper Scissor game
