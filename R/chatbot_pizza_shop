@@ -1,5 +1,7 @@
 # R langauge
 # Chatbot for ordering pizza
+# Link to test -> https://replit.com/@RyuTyu/Batch06ChatbotPizza#main.r
+
 print("Hello! this is Pizza and Steak house!")
 print(" what's your name?")
 user_name <- readLines("stdin",n=1)
