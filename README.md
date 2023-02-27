@@ -18,6 +18,10 @@ Data science bootcamp with 'adToy'
  Badges :
 
 ## All my projects
+### Spread Sheet
+
+### SQL
+
 ### R
 - [Chatbot for ordering pizza](https://github.com/Panpaphop/bootcamp_projects/blob/main/R/chatbot_pizza_shop.r).
 - [Rock Paper Scissor game](https://github.com/Panpaphop/bootcamp_projects/blob/main/R/rock_paper_scissor.r/).
