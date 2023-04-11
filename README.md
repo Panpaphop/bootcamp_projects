@@ -15,7 +15,8 @@ Data science bootcamp with 'adToy'
  - Essential Python for Data Analyst
  - Dashboard
  
- Badges :
+ Badges : ![image](https://user-images.githubusercontent.com/117499764/231135597-b09dcd24-415b-4a95-addf-ea7627604b3c.png)
+
 
 ## All my projects
 ### Spread Sheet
